@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Friendly-G</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia2">Reingrese Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="olvidar_cuenta">Olvidar Cuenta</string>
+
+
+</resources>

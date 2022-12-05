@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756758126537",
+    "project_id": "friendly-g",
+    "storage_bucket": "friendly-g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756758126537:android:0f74c177af95adf4305218",
+        "android_client_info": {
+          "package_name": "com.leonardo.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756758126537-edq8k0ambs923i3lkp3nuph6sutdcgs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcNk5ou-9s4RArmXXS96VXhCqJxUfCos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756758126537-edq8k0ambs923i3lkp3nuph6sutdcgs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
